@@ -1,4 +1,4 @@
-#Forked Laravel Payfast
+# Forked Laravel Payfast
 
 A dead simple Laravel payment processing class for payments through payfast.co.za. This package only supports ITN transactions. Laravel Payfast is strictly use at own risk.
 
