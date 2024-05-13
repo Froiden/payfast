@@ -27,5 +27,11 @@
         "Billow\\PayfastServiceProvider"
       ]
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://repo.packagist.org"
+    }
+  ]
 }
